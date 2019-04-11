@@ -1,0 +1,11 @@
+C:\Users\ssantana\Documents\Visual Studio 2017\Projects\ExitJail\ExitJail\bin\Debug\netcoreapp2.1\ExitJail.deps.json
+C:\Users\ssantana\Documents\Visual Studio 2017\Projects\ExitJail\ExitJail\bin\Debug\netcoreapp2.1\ExitJail.runtimeconfig.json
+C:\Users\ssantana\Documents\Visual Studio 2017\Projects\ExitJail\ExitJail\bin\Debug\netcoreapp2.1\ExitJail.runtimeconfig.dev.json
+C:\Users\ssantana\Documents\Visual Studio 2017\Projects\ExitJail\ExitJail\bin\Debug\netcoreapp2.1\ExitJail.dll
+C:\Users\ssantana\Documents\Visual Studio 2017\Projects\ExitJail\ExitJail\bin\Debug\netcoreapp2.1\ExitJail.pdb
+C:\Users\ssantana\Documents\Visual Studio 2017\Projects\ExitJail\ExitJail\obj\Debug\netcoreapp2.1\ExitJail.csprojAssemblyReference.cache
+C:\Users\ssantana\Documents\Visual Studio 2017\Projects\ExitJail\ExitJail\obj\Debug\netcoreapp2.1\ExitJail.csproj.CoreCompileInputs.cache
+C:\Users\ssantana\Documents\Visual Studio 2017\Projects\ExitJail\ExitJail\obj\Debug\netcoreapp2.1\ExitJail.AssemblyInfoInputs.cache
+C:\Users\ssantana\Documents\Visual Studio 2017\Projects\ExitJail\ExitJail\obj\Debug\netcoreapp2.1\ExitJail.AssemblyInfo.cs
+C:\Users\ssantana\Documents\Visual Studio 2017\Projects\ExitJail\ExitJail\obj\Debug\netcoreapp2.1\ExitJail.dll
+C:\Users\ssantana\Documents\Visual Studio 2017\Projects\ExitJail\ExitJail\obj\Debug\netcoreapp2.1\ExitJail.pdb
