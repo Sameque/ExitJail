@@ -8,5 +8,10 @@ namespace ExitJail.Entities.Jail
     {
         public HashSet<Character> Characters { get; set; }
 
+        public StructureBlock()
+        {
+            Characters = new HashSet<Character>();
+        }
+
     }
 }

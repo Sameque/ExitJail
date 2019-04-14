@@ -19,6 +19,9 @@ namespace ExitJail.Entities.Jail
         {
             StringBuilder stringBilder = new StringBuilder();
             stringBilder.AppendLine("Blok: "+Name);
+
+
+
             return stringBilder.ToString();
         }
     }
