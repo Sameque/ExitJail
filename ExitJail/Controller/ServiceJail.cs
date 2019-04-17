@@ -24,10 +24,9 @@ namespace ExitJail.Controller
 
             structureBlock = FactoryStructureBlock.CreateStructureBlock(EnumStructureBlocks.Hall);
             structureBlock.Characters.Add(character);
-
-
-
+            
             structureBlocks.Add(structureBlock);
+            structureBlocks.Add(FactoryStructureBlock.CreateStructureBlock(EnumStructureBlocks.Saddle));
             structureBlocks.Add(FactoryStructureBlock.CreateStructureBlock(EnumStructureBlocks.Saddle));
             structureBlocks.Add(FactoryStructureBlock.CreateStructureBlock(EnumStructureBlocks.Saddle));
             structureBlocks.Add(FactoryStructureBlock.CreateStructureBlock(EnumStructureBlocks.Saddle));

@@ -20,7 +20,10 @@ namespace ExitJail.Entities.Jail
             StringBuilder stringBilder = new StringBuilder();
             stringBilder.AppendLine("Blok: "+Name);
 
-
+            foreach (StructureBlock item in StructureBlocks)
+            {
+                stringBilder.AppendLine(item.ToString());
+            }
 
             return stringBilder.ToString();
         }
